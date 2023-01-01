@@ -1,0 +1,2 @@
+nvcc main.cpp MatrixException.cpp matrix.cu transpose.cu -o lcmv
+

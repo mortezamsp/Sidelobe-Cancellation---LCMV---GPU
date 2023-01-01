@@ -1,0 +1,4 @@
+
+
+nvcc main.cpp matrix.cu MatrixException.cpp multiply.cu -o lcmv
+

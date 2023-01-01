@@ -1,0 +1,4 @@
+
+
+nvcc main.cpp matrix.cu MatrixException.cpp MatrixGPU.cu -o 6_lcmv
+
